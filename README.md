@@ -1,5 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=35&vCenter=true&width=500&height=70&duration=4000&pause=3000&color=FF081B&&lines=Ale+uy)](https://git.io/typing-svg)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=35&vCenter=true&width=500&height=70&duration=4000&pause=3000&lines=Cient%C3%ADfico+de+Datos)](https://git.io/typing-svg)
 
 ## Quien soy❓
