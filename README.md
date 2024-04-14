@@ -22,7 +22,6 @@ Cuando necesito despejarme, me lanzo a correr o dar largas caminatas. La combina
 📊 Datos en mi ADN:
 Aunque soy economista de formación, encontré mi verdadera pasión en la interpretación de datos. Kaggle es mi terreno de juego para explorar conjuntos de datos desafiantes y aprender continuamente.
 
-
 # 🥇 Proyectos de Ciencia de Datos
 
 <table>
@@ -90,7 +89,16 @@ muchos estados intermedios con formas irregulares, tamaño y brillo que dependen
 <a href="https://github.com/ale-uy/Clasificacion_de_galaxias" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-54A5DA?style=for-the-badge&logo=github&logoColor=white">
 </a>
-</div>                                            
+</div>
+<td width="50%">
+<h3>Analisis de eCommerce</h3>
+<div>                                       
+<a href="https://github.com/ale-uy/Analisis_ecommerce" target="_blank"><img src="/src/images/portada.jpg" width="100%" alt="Analisis de eCommerce"></a>
+<p align="justify">La tienda online de moda brasileña eBRASIL, con presencia en todo el territorio brasileño, necesita impulsar su rendimiento utilizando sus datos de manera estratégica. Con los datos que nos proporciona la empresa, los cuales están almacenados en archivos excel, se decide crear una base de datos sql para poder migrarlos a la nube y reducir así los tiempos de acceso a la información, además los ayudará para poder escalar los datos de forma eficiente en el futuro.</p>
+<a href="https://github.com/ale-uy/Analisis_ecommerce" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</div>                                                
 </td>
 
 </table>
