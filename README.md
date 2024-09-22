@@ -100,6 +100,7 @@ muchos estados intermedios con formas irregulares, tamaño y brillo que dependen
 </a>
 </div>                                                
 </td>
+<tr>
 <td width="50%">
 <h3>Cargas de Trabajo Agudas y Crónicas en disciplinas Deportivas</h3>
 <div>                                       
@@ -111,7 +112,7 @@ muchos estados intermedios con formas irregulares, tamaño y brillo que dependen
 </a>
 </div>                                                
 </td>
-
+</tr>
 
 </table>
 
