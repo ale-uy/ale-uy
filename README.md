@@ -107,7 +107,7 @@ muchos estados intermedios con formas irregulares, tamaño y brillo que dependen
 <a href="https://github.com/ale-uy/Acute_Chronic_Workload_Ratio" target="_blank"><img src="/src/images/title.png" width="100%" alt="Cargas de Trabajo"></a>
 <p align="justify">Este informe presenta un análisis de los datos recopilados mediante dispositivos de monitoreo de rendimiento deportivo. El análisis se centra en la evaluación de la "relación de carga de trabajo aguda a crónica" (ACWR), un indicador clave en la gestión de cargas de entrenamiento y prevención de lesiones. Este enfoque se aplica tanto para monitorear el rendimiento de individuos como para evaluar el estado general de un equipo o grupo, facilitando la toma de decisiones informadas sobre el bienestar físico y el rendimiento deportivo. Los datos utilizados en este informe son solo un ejemplo aplicable a cualquier conjunto de datos de rendimiento deportivo similar.
 </p>
-<a href="https://github.com/ale-uyAcute_Chronic_Workload_Ratio" target="_blank">
+<a href="https://github.com/ale-uy/Acute_Chronic_Workload_Ratio" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-54A5DA?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </div>                                                
