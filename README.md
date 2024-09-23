@@ -180,6 +180,19 @@ muchos estados intermedios con formas irregulares, tamaño y brillo que dependen
 <img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <tr>
+<td width="50%">
+<h3>Montevideo Bienes Raíces</h3>
+<div>                                       
+<a href="https://github.com/ale-uy/Montevideo_Real_Estate" target="_blank"><img src="/src/images/dataset-cover.png" width="100%" alt="Inmuebles Montevideo"></a>
+<p align="justify">El mercado inmobiliario en Montevideo presenta una gran variedad de precios debido a múltiples factores como la ubicación, el tamaño, el estado de la propiedad, entre otros. Este proyecto busca construir un modelo predictivo que pueda estimar el precio de una casa basándose en estas características. Este proyecto tiene como objetivo servir como introducción al uso de la biblioteca de python AutoGluon de aprendizaje automático para predecir el precio de las casas en Montevideo.
+</p>
+<a href="https://github.com/ale-uy/Montevideo_Real_Estate" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-54A5DA?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</div>                                                
+</td>
+</tr>
+
 </table>
 
 # 📎 Redes de Contacto 📎
