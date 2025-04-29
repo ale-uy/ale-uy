@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=35&vCenter=true&width=500&height=70&duration=4000&pause=3000&color=FF081B&&lines=Alejandro+Silvera+(Ale))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=35&vCenter=true&width=500&height=70&duration=4000&pause=3000&color=FF081B&&lines=Alejandro+Silvera+(Ale uy))](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=35&vCenter=true&width=500&height=70&duration=4000&pause=3000&lines=Cientifico+de+Datos)](https://git.io/typing-svg)
 
