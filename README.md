@@ -24,15 +24,15 @@ Aunque soy economista de formación, encontré mi verdadera pasión en la interp
 
 ### 🛠️ Tecnologías y Herramientas
 
-<p align="left">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://c0.klipartz.com/pngpicture/820/213/gratis-png-analisis-de-datos-de-visualizacion-de-datos-de-microsoft-corporation-de-power-bi-business-intelligence-plantillas-de-panel-de-control-de-power-bi.png" alt="powerbi" width="40" height="40"/> </a>
-    <a href="https://n8n.io/" target="_blank" rel="noreferrer"> <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.74.0/files/dark/n8n-color.png" alt="n8n" width="40" height="40"/> </a>
+<p align="center">
+    <a href="https://www.python.org" target="_blank" rel="noreferrer" style="padding: 0 10px;> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="padding: 0 10px;> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60"/> </a>
+    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" style="padding: 0 10px;> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/> </a>
+    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer" style="padding: 0 10px;> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="60" height="60"/> </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="padding: 0 10px;> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/> </a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="padding: 0 10px;> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> </a>
+    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer" style="padding: 0 10px;> <img src="https://c0.klipartz.com/pngpicture/820/213/gratis-png-analisis-de-datos-de-visualizacion-de-datos-de-microsoft-corporation-de-power-bi-business-intelligence-plantillas-de-panel-de-control-de-power-bi.png" alt="powerbi" width="60" height="60"/> </a>
+    <a href="https://n8n.io/" target="_blank" rel="noreferrer" style="padding: 0 10px;> <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.74.0/files/dark/n8n-color.png" alt="n8n" width="60" height="60"/> </a>
 </p>
 
 # 🥇 Proyectos de Ciencia de Datos
@@ -53,18 +53,7 @@ Aunque soy economista de formación, encontré mi verdadera pasión en la interp
 <h3>COVID19: Análisis de Caso</h3>
 <div>                                       
 <a href="https://github.com/ale-uy/covid19" target="_blank"><img src="/src/images/_7e1c2756-06d4-4d73-9763-dcccf8041953.jpeg" width="100%" alt="COVID19"></a>
-<p align="justify">Una entidad gubernamental
-responsable de la gestión de la salud
-en Nueva Zelanda, enfrenta el desafío
-de comprender y analizar la
-propagación del COVID-19 para tomar
-decisiones informadas y eficaces en
-la gestión de la pandemia. Para
-brindarles herramientas de apoyo,
-analizamos los datos relacionados
-con el virus y presentaremos algunos
-insights a través de visualizaciones
-que respondan a preguntas claves.</p>
+<p align="justify">Una entidad gubernamental responsable de la gestión de la salud en Nueva Zelanda, enfrenta el desafío de comprender y analizar la propagación del COVID-19 para tomar decisiones informadas y eficaces en la gestión de la pandemia. Para brindarles herramientas de apoyo, analizamos los datos relacionados con el virus y presentaremos algunos insights a través de visualizaciones que respondan a preguntas claves.</p>
 </div>                                                             
 <a href="https://github.com/ale-uy/covid19" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
