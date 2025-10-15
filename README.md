@@ -34,7 +34,7 @@ Aunque soy economista de formación, encontré mi verdadera pasión en la interp
   <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/></a>&nbsp;&nbsp;
   <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60"/></a>&nbsp;&nbsp;
   <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/></a>&nbsp;&nbsp;
-  <a href="https://xgboost.ai/"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/xgboost/xgboost-original.svg](https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png)" alt="xgboost" width="60" height="60"/></a>&nbsp;&nbsp;
+  <a href="https://xgboost.ai/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" alt="xgboost" width="60" height="60"/></a>&nbsp;&nbsp;
   <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/></a>
 </p>
 
