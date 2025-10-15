@@ -22,20 +22,24 @@ Cuando necesito despejarme, me lanzo a correr o dar largas caminatas. La combina
 📊 Datos en mi ADN:
 Aunque soy economista de formación, encontré mi verdadera pasión en la interpretación de datos. Kaggle es mi terreno de juego para explorar conjuntos de datos desafiantes y aprender continuamente.
 
+
 ### 🛠️ Tecnologías y Herramientas
 
+
 <p align="left">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer" style="padding: 0 40px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="padding: 0 40px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60"/> </a>
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" style="padding: 0 40px;"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/> </a>
-    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer" style="padding: 0 40px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="60" height="60"/> </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="padding: 0 40px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/> </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="padding: 0 40px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> </a>
-    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer" style="padding: 0 40px;"> <img src="https://c0.klipartz.com/pngpicture/820/213/gratis-png-analisis-de-datos-de-visualizacion-de-datos-de-microsoft-corporation-de-power-bi-business-intelligence-plantillas-de-panel-de-control-de-power-bi.png" alt="powerbi" width="60" height="60"/> </a>
-    <a href="https://n8n.io/" target="_blank" rel="noreferrer" style="padding: 0 40px;"> <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.74.0/files/dark/n8n-color.png" alt="n8n" width="60" height="60"/> </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer" style="padding: 0 100px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="padding: 0 100px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60"/> </a>
+    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" style="padding: 0 100px;"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/> </a>
+    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer" style="padding: 0 100px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="60" height="60"/> </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="padding: 0 100px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/> </a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="padding: 0 100px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> </a>
+    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer" style="padding: 0 100px;"> <img src="https://c0.klipartz.com/pngpicture/820/213/gratis-png-analisis-de-datos-de-visualizacion-de-datos-de-microsoft-corporation-de-power-bi-business-intelligence-plantillas-de-panel-de-control-de-power-bi.png" alt="powerbi" width="60" height="60"/> </a>
+    <a href="https://n8n.io/" target="_blank" rel="noreferrer" style="padding: 0 100px;"> <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.74.0/files/dark/n8n-color.png" alt="n8n" width="60" height="60"/> </a>
 </p>
 
+
 # 🥇 Proyectos de Ciencia de Datos
+
 
 <table>
 <tr>
@@ -141,7 +145,9 @@ muchos estados intermedios con formas irregulares, tamaño y brillo que dependen
 
 </table>
 
+
 # 🥇 Proyectos de Machine Learning
+
 
 <table>
 <tr>
@@ -242,6 +248,8 @@ muchos estados intermedios con formas irregulares, tamaño y brillo que dependen
 
 </table>
 
+
 # 📎 Redes de Contacto 📎
+
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/lasm1984) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ale-uy/) [![Github](https://img.shields.io/badge/Github-%23181717.svg?logo=github&logoColor=white)](https://ale-uy.github.com) [![discord](https://img.shields.io/badge/Discord-%230866FF.svg?logo=discord&logoColor=white)](https://discord.com/users/ale_uy_)
