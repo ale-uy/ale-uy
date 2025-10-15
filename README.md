@@ -105,7 +105,7 @@ muchos estados intermedios con formas irregulares, tamaño y brillo que dependen
 <td width="50%">
 <h3>Análisis de la Brecha Digital en Uruguay (Censo 2023)</h3>
 <div>
-<a href="https://github.com/ale-uy/Censo_2023" target="_blank"><img src="/src/images/default.jpg" width="100%" alt="Censo 2023"></a>
+<a href="https://github.com/ale-uy/Censo_2023" target="_blank"><img src="/src/images/brechadigital.jpg" width="100%" alt="Censo 2023"></a>
 <p align="justify">Análisis de la brecha digital en Uruguay utilizando microdatos del Censo 2023 para identificar perfiles de conectividad y factores asociados mediante clustering y modelos de clasificación.</p>
 <a href="https://github.com/ale-uy/Censo_2023" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
@@ -115,7 +115,7 @@ muchos estados intermedios con formas irregulares, tamaño y brillo que dependen
 <td width="50%">
 <h3>Extracción y Visualización de Datos de Transfermarkt</h3>
 <div>
-<a href="https://github.com/ale-uy/Transfermarkt_ETL" target="_blank"><img src="/src/images/default.jpg" width="100%" alt="Transfermarkt ETL"></a>
+<a href="https://github.com/ale-uy/Transfermarkt_ETL" target="_blank"><img src="/src/images/transfermarkt.jpg" width="100%" alt="Transfermarkt ETL"></a>
 <p align="justify">Proyecto de extracción de datos de Transfermarkt usando FastAPI y n8n, con almacenamiento en PostgreSQL y visualización en Power BI.</p>
 <a href="https://github.com/ale-uy/Transfermarkt_ETL" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-1A3467?style=for-the-badge&logo=github&logoColor=white">
@@ -216,7 +216,7 @@ muchos estados intermedios con formas irregulares, tamaño y brillo que dependen
 <td width="50%">
 <h3>Tu CV Chatero: Asistente Conversacional Profesional</h3>
 <div>
-<a href="https://github.com/ale-uy/Tu_CV_Chatero" target="_blank"><img src="/src/images/default.jpg" width="100%" alt="CV Chatero"></a>
+<a href="https://github.com/ale-uy/Tu_CV_Chatero" target="_blank"><img src="/src/images/tucvchatero.jpg" width="100%" alt="CV Chatero"></a>
 <p align="justify">Asistente conversacional basado en RAG que permite a los usuarios "chatear" con un CV y otros documentos profesionales, utilizando FastAPI, Qdrant, Gemini y Groq.</p>
 <a href="https://github.com/ale-uy/Tu_CV_Chatero" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-1A3467?style=for-the-badge&logo=github&logoColor=white">
