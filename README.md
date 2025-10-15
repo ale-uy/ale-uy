@@ -7,6 +7,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br>
+
 🚀 ¡Hola! Soy Ale, un entusiasta de la programación en python, el análisis de datos y el aprendizaje automático con sede en Uruguay 🌎. Con un trasfondo en economía, decidí aventurarme en el fascinante mundo de la inteligencia artificial y la ciencia de datos.
 
 🖥️ Programación y Algoritmos:
@@ -23,7 +24,9 @@ Cuando necesito despejarme, me lanzo a correr o dar largas caminatas. La combina
 Aunque soy economista de formación, encontré mi verdadera pasión en la interpretación de datos. Kaggle es mi terreno de juego para explorar conjuntos de datos desafiantes y aprender continuamente.
 
 <br>
+
 ### 🛠️ Tecnologías y Herramientas
+
 <br>
 
 <p align="left">
@@ -38,7 +41,9 @@ Aunque soy economista de formación, encontré mi verdadera pasión en la interp
 </p>
 
 <br>
+
 # 🥇 Proyectos de Ciencia de Datos
+
 <br>
 
 <table>
@@ -146,7 +151,9 @@ muchos estados intermedios con formas irregulares, tamaño y brillo que dependen
 </table>
 
 <br>
+
 # 🥇 Proyectos de Machine Learning
+
 <br>
 
 <table>
@@ -249,7 +256,9 @@ muchos estados intermedios con formas irregulares, tamaño y brillo que dependen
 </table>
 
 <br>
+
 # 📎 Redes de Contacto 📎
+
 <br>
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/lasm1984) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ale-uy/) [![Github](https://img.shields.io/badge/Github-%23181717.svg?logo=github&logoColor=white)](https://ale-uy.github.com) [![discord](https://img.shields.io/badge/Discord-%230866FF.svg?logo=discord&logoColor=white)](https://discord.com/users/ale_uy_)
