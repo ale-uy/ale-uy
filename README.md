@@ -206,7 +206,7 @@ muchos estados intermedios con formas irregulares, tamaño y brillo que dependen
 <td width="50%">
 <h3>PCA con Gatos</h3>
 <div>
-<a href="https://github.com/ale-uy/PCA_con_gatos" target="_blank"><img src="https://raw.githubusercontent.com/ale-uy/PCA_con_gatos/refs/heads/main/5.png" width="100%" alt="PCA con Gatos"></a>
+<a href="https://github.com/ale-uy/PCA_con_gatos" target="_blank"><img src="/src/images/pcacongatos.jpg" width="100%" alt="PCA con Gatos"></a>
 <p align="justify">Explicación visual del Análisis de Componentes Principales (PCA) utilizando la reconstrucción de una imagen de un gato para demostrar la reducción de dimensionalidad.</p>
 <a href="https://github.com/ale-uy/PCA_con_gatos" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
