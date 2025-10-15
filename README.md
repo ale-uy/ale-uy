@@ -268,14 +268,3 @@ muchos estados intermedios con formas irregulares, tamaño y brillo que dependen
 <br>
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/lasm1984) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ale-uy/) [![Github](https://img.shields.io/badge/Github-%23181717.svg?logo=github&logoColor=white)](https://ale-uy.github.com) [![discord](https://img.shields.io/badge/Discord-%230866FF.svg?logo=discord&logoColor=white)](https://discord.com/users/ale_uy_)
-
-<br>
-
-### 📊 Mis Estadísticas de GitHub
-
-<br>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ale-uy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale-uy&layout=compact&langs_count=8&theme=dracula"/>
-</p>
