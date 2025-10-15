@@ -34,7 +34,7 @@ Aunque soy economista de formación, encontré mi verdadera pasión en la interp
   <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/></a>&nbsp;&nbsp;
   <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60"/></a>&nbsp;&nbsp;
   <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/></a>&nbsp;&nbsp;
-  <a href="https://xgboost.ai/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xgboost/xgboost-original.svg" alt="xgboost" width="60" height="60"/></a>&nbsp;&nbsp;
+  <a href="https://xgboost.ai/"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/xgboost/xgboost-original.svg](https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png)" alt="xgboost" width="60" height="60"/></a>&nbsp;&nbsp;
   <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/></a>
 </p>
 
@@ -42,10 +42,10 @@ Aunque soy economista de formación, encontré mi verdadera pasión en la interp
   <!-- Cloud / AI / Orchestration -->
   <a href="https://fastapi.tiangolo.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="60" height="60"/></a>&nbsp;&nbsp;
   <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/></a>&nbsp;&nbsp;
-  <a href="https://powerbi.microsoft.com/"><img src="https://cdn.simpleicons.org/powerbi" alt="powerbi" width="60" height="60"/></a>&nbsp;&nbsp;
+  <a href="https://powerbi.microsoft.com/"><img src="https://windowsreport.com/wp-content/uploads/2019/07/Fix-power-bi-cant-find-app-930x620.jpg" alt="powerbi" width="60" height="60"/></a>&nbsp;&nbsp;
   <a href="https://n8n.io/"><img src="https://cdn.simpleicons.org/n8n" alt="n8n" width="60" height="60"/></a>&nbsp;&nbsp;
   <a href="https://www.langchain.com/"><img src="https://cdn.simpleicons.org/langchain" alt="langchain" width="60" height="60"/></a>&nbsp;&nbsp;
-  <a href="https://qdrant.tech/"><img src="https://cdn.simpleicons.org/qdrant" alt="qdrant" width="60" height="60"/></a>&nbsp;&nbsp;
+  <a href="https://qdrant.tech/"><img src="https://qdrant.tech/img/brand-resources-logos/logomark.svg" alt="qdrant" width="60" height="60"/></a>&nbsp;&nbsp;
   <a href="https://openai.com/"><img src="https://cdn.simpleicons.org/openai" alt="openai" width="60" height="60"/></a>
 </p>
 
